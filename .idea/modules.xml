@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidNoobFramework.iml" filepath="$PROJECT_DIR$/AndroidNoobFramework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/noobframework/noobframework.iml" filepath="$PROJECT_DIR$/noobframework/noobframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M_Noobframework_Base/M_Noobframework_Base.iml" filepath="$PROJECT_DIR$/M_Noobframework_Base/M_Noobframework_Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_Noobframework_Sample/P_Noobframework_Sample.iml" filepath="$PROJECT_DIR$/P_Noobframework_Sample/P_Noobframework_Sample.iml" />
     </modules>
   </component>
 </project>

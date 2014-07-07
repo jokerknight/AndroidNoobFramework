@@ -8,11 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/M_Noobframework_Base" />
+            <option value="$PROJECT_DIR$/P_Noobframework_Sample" />
           </set>
         </option>
       </GradleProjectSettings>
     </option>
+    <option name="gradleVmOptions" value="-XX:MaxPermSize=512m" />
   </component>
 </project>
 
